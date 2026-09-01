@@ -189,7 +189,7 @@ Through this project, I practiced the following data analysis skills:
 ### Step 1: Clone the Repository
 
 ```text
-git clone <your-repository-link>
+git clone <https://github.com/10dollyyadav-afk/SQL_Project/edit/main/README.md>
 ```
 
 ### Step 2: Open SQL Server Management Studio
